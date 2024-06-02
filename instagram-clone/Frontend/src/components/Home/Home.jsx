@@ -4,7 +4,7 @@ import Timeline from "../timeline/Timeline";
 
 function Home() {
   return (
-    <div className="flex flex-row">
+    <div className="flex flex-row h-full w-full">
       <div className="flex-[0.2]">
         <Sidenav />
       </div>
